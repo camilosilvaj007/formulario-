@@ -41,10 +41,10 @@ body {
    }
    
    #survey-form {
-       width: 60%;
+       width: 50%;
        margin: 0 auto;
-       background-color: rgba(3, 3, 17, 0.5);
-       padding: 2em;
+       background-color: rgba(125, 0, 87, 0.5);
+       padding: 1%;
        border-radius: 0.5em;
        max-width: 800px;
        min-width: 200px;
@@ -62,8 +62,8 @@ body {
        display: block;
        width: 100%;
        padding: 0.2em;
-       margin: 10px 0 0 0;
-       border: none;
+       margin: 6px 0 0 0;
+       border: lavender;
        min-height: 1em;
        border-radius: 0.5em;
        font-size: 1.2em;
